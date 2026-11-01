@@ -1,0 +1,14 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.vercel
+
+# Raw uploads (58 MB video, STL/CAD sources) — the web-ready copies live in public/projects
+incoming/
+# Private working notes
+CONTENT-CHECKLIST.md
+
+# Local editor/agent settings
+.claude/
